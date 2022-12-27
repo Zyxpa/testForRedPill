@@ -19,7 +19,7 @@ public class AlchemyWindowController : WindowController
 
     private void InitData()
     {
-        string savePath = "C:\\work\\test\\Assets\\Resources\\RecipeData.json";
+        string savePath = Application.dataPath + "/Resources/RecipeData.json";
         if (File.Exists(savePath))
         {
             string readText = File.ReadAllText(savePath);

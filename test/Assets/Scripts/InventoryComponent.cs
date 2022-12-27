@@ -28,7 +28,8 @@ public class InventoryComponent : MonoBehaviour
 
     private void InitData()
     {
-        string savePath = "C:\\work\\test\\Assets\\Resources\\InventoryData.json";
+        string savePath = Application.dataPath + "/Resources/InventoryData.json";
+
         if (File.Exists(savePath))
         {
             string readText = File.ReadAllText(savePath);
