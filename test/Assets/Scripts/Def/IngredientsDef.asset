@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d16cd4fa60b9a4786defea83cad0f7, type: 3}
+  m_Name: IngredientsDef
+  m_EditorClassIdentifier: 
+  ingredients:
+  - _id: 0
+    name: Charged ore
+    sprite: {fileID: 21300000, guid: 0d418b02f421d9f4192b55bf283cb4e7, type: 3}
+  - _id: 1
+    name: Diamond dust
+    sprite: {fileID: 21300000, guid: 1672f5c7929cd9944baff59227b5e090, type: 3}
+  - _id: 2
+    name: Liquid silver
+    sprite: {fileID: 21300000, guid: 5e9b85f5fc37d74409c435df50f5d55e, type: 3}
+  - _id: 3
+    name: Magic ink
+    sprite: {fileID: 21300000, guid: 66860a4efb57e4a44be551d091a9199b, type: 3}
+  - _id: 4
+    name: Patoka
+    sprite: {fileID: 21300000, guid: 694285a710b42b34c8841b45c89ff563, type: 3}
+  - _id: 5
+    name: Pigment
+    sprite: {fileID: 21300000, guid: 9dd5c21ea4e87084faa8b55136fdb21b, type: 3}
+  - _id: 6
+    name: Portal stone
+    sprite: {fileID: 21300000, guid: 71a1fae201e3c8a4d9abd61bd72ba41b, type: 3}
+  - _id: 7
+    name: Rubinarium
+    sprite: {fileID: 21300000, guid: 898e6fed130ffa34ca5d17bbaac68ab8, type: 3}
+  - _id: 8
+    name: Spring wine
+    sprite: {fileID: 21300000, guid: f59873eb694977148b21d7d563a31ab7, type: 3}
+  - _id: 9
+    name: Spring wine
+    sprite: {fileID: 21300000, guid: b7604e46fe4b91643a041db0b99d5fef, type: 3}
+  - _id: 10
+    name: Star Vanilla
+    sprite: {fileID: 21300000, guid: 0df0a8b701b42ac4ba63b3484674e8ad, type: 3}
+  - _id: 11
+    name: Volcanic coal
+    sprite: {fileID: 21300000, guid: 16a70c23ee506ad4e9954d433b2c07d9, type: 3}
+  - _id: 12
+    name: Workpiece portal stone
+    sprite: {fileID: 21300000, guid: 968d701cab04abc49bf9e84678ddcc51, type: 3}
